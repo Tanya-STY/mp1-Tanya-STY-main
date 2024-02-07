@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+=======
+# Ignore APK files
+*.apk
+>>>>>>> e41c13e (Create .gitignore and ignore .apk)
